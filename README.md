@@ -1,0 +1,1 @@
+# list-install-vsc-extensions
