@@ -34,7 +34,7 @@ or
 bash install-vsc-extensions.sh
 ```
 
-
+****************************************************************************************************
 _**Note:** [For PowerShell] (https://docs.microsoft.com/en-us/powershell/)._
 
 1) Export your extensions to a ps file:
@@ -50,8 +50,8 @@ less install-vsc-extensions.ps1
 
 ### Install your extensions (optional)
 
-Run your `install-vsc-extensions.ps1` using [Bash](https://www.gnu.org/software/bash/) command:
+Run your `install-vsc-extensions.ps1` using PowerShell command:
 
 ```sh
-bash install-vsc-extensions.ps1
+install-vsc-extensions.ps1
 ```
