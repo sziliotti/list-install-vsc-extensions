@@ -11,6 +11,7 @@ code --install-extension googlecloudtools.cloudcode
 code --install-extension GrapeCity.gc-excelviewer
 code --install-extension Gruntfuggly.todo-tree
 code --install-extension hashicorp.terraform
+code --install-extension hediet.vscode-drawio
 code --install-extension IBM.output-colorizer
 code --install-extension Ikuyadeu.r
 code --install-extension josephtbradley.hive-sql
@@ -30,6 +31,11 @@ code --install-extension ms-mssql.mssql
 code --install-extension ms-python.python
 code --install-extension ms-python.vscode-pylance
 code --install-extension ms-toolsai.jupyter
+code --install-extension ms-vscode-remote.remote-containers
+code --install-extension ms-vscode-remote.remote-ssh
+code --install-extension ms-vscode-remote.remote-ssh-edit
+code --install-extension ms-vscode-remote.remote-wsl
+code --install-extension ms-vscode-remote.vscode-remote-extensionpack
 code --install-extension ms-vscode.azure-account
 code --install-extension ms-vscode.azurecli
 code --install-extension ms-vscode.powershell
