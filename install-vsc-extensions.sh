@@ -73,7 +73,9 @@ code --install-extension redhat.vscode-yaml
 code --install-extension samuelcolvin.jinjahtml
 code --install-extension scala-lang.scala
 code --install-extension shd101wyy.markdown-preview-enhanced
+code --install-extension stevenchen.vscode-adr-manager
 code --install-extension streetsidesoftware.avro
 code --install-extension vscjava.vscode-maven
 code --install-extension vscode-icons-team.vscode-icons
+code --install-extension vscodevim.vim
 code --install-extension xyz.plsql-language
